@@ -8,7 +8,7 @@ export const doctors: Doctor[] = [
     image: '/placeholder.svg',
     experience: 12,
     rating: 4.8,
-    location: 'Mumbai, Maharashtra',
+    location: 'Tirupur, Tamil Nadu ',
     fee: 800,
     availability: {
       status: 'available',
