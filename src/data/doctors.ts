@@ -3,7 +3,7 @@ import { Doctor } from '@/types';
 export const doctors: Doctor[] = [
   {
     id: '1',
-    name: 'Dr. Sarah Johnson',
+    name: 'Dr. Akask',
     specialization: 'Cardiologist',
     image: '/placeholder.svg',
     experience: 12,
